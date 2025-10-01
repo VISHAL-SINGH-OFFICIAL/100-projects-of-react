@@ -36,8 +36,3 @@ Special thanks to [CodingOtt YouTube Channel](https://www.youtube.com/@CodingOtt
 ## 📂 Project Link  
 🔗 [GitHub Repository](https://github.com/VISHAL-SINGH-OFFICIAL/100-projects-of-react)  
 
----
-
-## 🎥 Demo Video  
-👉 [Watch the video here](gradient-generator/public/OverView-Project/App.jsx%20-%20Day1-Project1%20-%20Visual%20Studio%20Code.mp4)  
-👉 [Watch the video here](gradient-generator/public/OverView-Project/Vite%20+%20React1.mp4)
