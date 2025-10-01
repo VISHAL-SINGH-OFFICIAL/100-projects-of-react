@@ -39,5 +39,5 @@ Special thanks to [CodingOtt YouTube Channel](https://www.youtube.com/@CodingOtt
 ---
 
 ## 🎥 Demo Video  
-👉 [Watch the video here](PASTE_YOUR_VIDEO_LINK_HERE)  
-👉 [Watch the video here](PASTE_YOUR_VIDEO_LINK_HERE) 
+👉 [Watch the video here](gradient-generator/public/OverView-Project/App.jsx%20-%20Day1-Project1%20-%20Visual%20Studio%20Code.mp4)  
+👉 [Watch the video here](gradient-generator/public/OverView-Project/Vite%20+%20React1.mp4)
